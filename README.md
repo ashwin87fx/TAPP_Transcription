@@ -1,6 +1,6 @@
 # TAPP - Intelligent Transcription & Analysis Platform
 
-![Project Banner](assets/home_hero.png)
+![Project Banner](assets/language_opt.png)
 
 **TAPP** is a robust AI transcription studio that transforms raw audio into actionable insights. Built with **Flutter** (Web) and **FastAPI**, it demonstrates a modern full-stack architecture combining real-time UI interactivity with powerful server-side AI processing.
 
@@ -15,7 +15,7 @@ The core of TAPP is the "Studio" - a glassmorphic workspace designed for focus.
 
 | **Upload & Analyze** | **Multi-Language Support** |
 |:---:|:---:|
-| ![Transcribe View](assets/studio_main.png) | ![Language Selection](assets/language_opt.png) |
+| ![Transcribe View](assets/home_hero.png) | ![Language Selection](assets/studio_main.png) |
 | *Drag-and-drop zone with animated hover states.* | *Support for 99+ languages including Hinglish.* |
 
 ### **Interactive Results**
